@@ -1,4 +1,4 @@
-# Lembre:
+# Lembra:
 App gerenciador de tempo,use listas para organizar seus lembretes e tarefas, adicione uma repetição de tarefas para coisas como cortar cabelo, um app fácil, rápido e direto.
 
 # Tecnologia
