@@ -1,0 +1,8 @@
+Lembra (PWA)
+
+1. Envie TODOS os arquivos para a RAIZ do repositorio (index.html, manifest.json, sw.js e a pasta icons), sem subpasta.
+2. Ative o GitHub Pages (Settings > Pages) e abra https://USUARIO.github.io/REPOSITORIO/ no Chrome.
+3. Menu do Chrome > Instalar app (ou use o botao Instalar dentro do app).
+4. Permita as notificacoes.
+
+Teste: abra .../manifest.json e .../sw.js no navegador; se der 404, os arquivos estao no lugar errado.
