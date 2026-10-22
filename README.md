@@ -1,5 +1,5 @@
 # Lembra:
-App gerenciador de tempo,use listas para organizar seus lembretes e tarefas, adicione uma repetição de tarefas para coisas como cortar cabelo, um app fácil, rápido e direto.
+App gerenciador de tempo, crie e faça suas tarefas, lembre-se com os lembretes, use listas para organizar seus lembretes e tarefas, adicione uma repetição de tarefas para coisas uteis, como cortar cabelo, customiza o app do seu jeito, um app para você, um app fácil, rápido e direto.
 
 # Tecnologia
 
